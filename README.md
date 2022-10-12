@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/emanueledelsorboaccenture/TutorialProject/_apis/build/status/emanueleds.pipelines-java?branchName=master)](https://dev.azure.com/emanueledelsorboaccenture/TutorialProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
